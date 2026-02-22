@@ -1,0 +1,83 @@
+*meta* processing uses 220114_helperFunctions.rdata
+combat integration is in 220204_AlcHepIntegration.r
+
+# study and source
+GSE76510
+210210_firstPass.r
+GSE152703
+210210_firstPass.r
+GSE6960
+210210_firstPass.r
+GSE2111
+210210_firstPass.r
+GSE60159
+210210_firstPass.r
+GSE25167
+210210_firstPass.r
+GSE39316
+
+GSE39330
+
+GSE2964
+210210_firstPass.r
+GSE99435
+210210_firstPass.r
+GSE83148
+211101_DataProcessing.r 220113_HBVmeta_3.R 220303_figure_andAnalysisReq.r 220509_ExpressionListRequest.r 231222_candidates.r
+GSE15331
+211101_DataProcessing.r 220112_HCVmeta_1.R 220112_scratch.R 220303_figure_andAnalysisReq.r
+GSE70779
+211101_DataProcessing.r 220112_HCVmeta_1.R 220112_scratch.R 220303_figure_andAnalysisReq.r
+GSE135251
+210928_prepWorkForMark.r 220112_HCVmeta_1.R 220112_scratch.R 220113_NAFLDmeta_2.R 220119_extraNAFLD.r 220705_BulkRNAseq_extension.R 220711_compilingMetadata.r     
+GSE48452
+210928_prepWorkForMark.r 220112_HCVmeta_1.R 220112_scratch.R 220113_NAFLDmeta_2.R 220119_extraNAFLD.r 220711_compilingMetadata.r  
+GSE66676
+211101_DataProcessing.r 220113_NAFLDmeta_2.R 220303_mayada.r 220711_compilingMetadata.r  
+PRJNA512027
+211130_scratch.R 220119_alcLiver_5.r 220119_extraNAFLD.r 220303_mayada.r 220711_compilingMetadata.r
+E_MEXP_3291
+211101_DataProcessing.r 220113_NAFLDmeta_2.R 220303_mayada.r 
+GSE135251
+210928_prepWorkForMark.r 220112_HCVmeta_1.R 220112_scratch.R 220113_NAFLDmeta_2.R 220119_extraNAFLD.r 220705_BulkRNAseq_extension.R 220711_compilingMetadata.r     
+GSE167523
+211130_scratch.R 220119_extraNAFLD.r 220711_compilingMetadata.r
+GSE48452
+210928_prepWorkForMark.r 220112_HCVmeta_1.R 220112_scratch.R 220113_NAFLDmeta_2.R 220119_extraNAFLD.r 220711_compilingMetadata.r  
+GSE66676
+211101_DataProcessing.r 220113_NAFLDmeta_2.R 220303_mayada.r 220711_compilingMetadata.r  
+GSE14520
+211101_DataProcessing.r 220113_HCCmeta_4.R
+GSE25097
+211101_DataProcessing.r 220113_HCCmeta_4.R
+GSE84402
+211101_DataProcessing.r 220113_HCCmeta_4.R
+GSE14323
+211101_DataProcessing.r 220112_HCVmeta_1.R 220112_scratch.R
+GSE14323
+211101_DataProcessing.r 220112_HCVmeta_1.R 220112_scratch.R
+GSE135251
+210928_prepWorkForMark.r 220112_HCVmeta_1.R 220112_scratch.R 220113_NAFLDmeta_2.R 220119_extraNAFLD.r 220705_BulkRNAseq_extension.R 220711_compilingMetadata.r     
+GSE49541
+211101_DataProcessing.r 211130_scratch.R 220113_NAFLDmeta_2.R 220119_extraNAFLD.r 220705_BulkRNAseq_extension.R
+PRJNA512027
+211130_scratch.R 220119_alcLiver_5.r 220119_extraNAFLD.r 220303_mayada.r 220711_compilingMetadata.r
+GSE25097
+211101_DataProcessing.r 220113_HCCmeta_4.R
+GSE28619
+210707_datawrangling.r 220119_alcLiver_5.r
+GSE143318
+
+GSE155907
+210707_datawrangling.r 220119_alcLiver_5.r
+GSE142530
+220119_alcLiver_5.r
+GSE94397
+210610_datawrangling.r 220204_AlcHepIntegration.r 220317_datawrangling_redone.r
+GSE94399
+210610_datawrangling.r 220204_AlcHepIntegration.r 220317_datawrangling_redone.r
+GSE103580
+210610_datawrangling.r 220204_AlcHepIntegration.r 220317_datawrangling_redone.r
+phs003112.v1.p1
+221013_dbgap.sh
+
